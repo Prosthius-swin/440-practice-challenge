@@ -1,0 +1,135 @@
+* {
+    color: white;
+}
+
+.border {
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+}
+
+body {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+header {
+    margin-top: 30px;
+    padding-left: 0px;
+}
+
+.sub-text {
+    margin-left: 50px;
+    color: grey;
+}
+
+.heading {
+    color: orange;
+}
+
+.banner {
+    background-color: green;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+.align-right {
+    text-align: right;
+}
+
+.title-big {
+    font-size: 70px;
+    padding-right: 20px;
+}
+
+.title-small {
+    padding-right: 20px;
+}
+
+.btn.mod {
+    border-color: orange !important;
+    background-color: orange !important;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 0px;
+}
+
+.no-margin {
+    margin: 0px;
+    padding: 0px;
+}
+
+.no-right-margin {
+    margin-right: 0px;
+    padding-right: 0px;
+}
+
+.justify-right {
+    justify-content: right;
+}
+
+.test {
+    display: flex;
+    justify-content: space-around;
+}
+
+.orange-text {
+    color: orange;
+}
+
+.main-text-con {
+    padding-top: 30px;
+}
+
+.main-head {
+    padding-left: 30px;
+}
+
+.main-body {
+    color: grey;
+    padding-left: 30px;
+    padding-right: 50px;
+}
+
+.side-bar {
+    border-left: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.side-bar-title {
+    color: grey;
+    padding-left: 20px;
+}
+
+.side-bar-content {
+    color: grey;
+    padding-left: 20px;
+}
+
+.side-bar-date {
+    color: orange;
+    padding-left: 20px;
+}
+
+.link {
+    color: orange;
+    text-decoration: none !important;
+    padding-left: 30px;
+}
+
+footer {
+    background-color: green;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    margin-top: 50px;
+}
+
+.footer-link {
+    color: white;
+}
