@@ -63,7 +63,7 @@ header {
     padding-right: 50px;
     border-radius: 0px;
     margin-right: 0px;
-    min-width: 186px;
+    min-width: 192px;
 }
 
 .no-margin {
@@ -134,7 +134,7 @@ footer {
     background-color: green;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-left: 60px;
+    padding-left: 0px;
     margin-top: 50px;
 }
 
@@ -146,3 +146,6 @@ footer {
     translate: 12px;
 }
 
+.container.footer {
+    margin-left: 30px;
+}
